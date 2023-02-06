@@ -1,6 +1,8 @@
 site_name: Cartoon Blox API Docs
 copyright: Copyright &copy; 2023 Sowat
 theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
   name: material
   palette:
     - media: "(prefers-color-scheme: dark)"
