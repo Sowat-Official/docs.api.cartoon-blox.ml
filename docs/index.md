@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+#Welcome to the Cartoon Blox API Documentation !
+Here we are gonna start using the API
+<details>
+    <summary>What can i do with the API?</summary>
+    <br>
+    You can show the catalog on your site, or you can show somebodys character with uid, or you can get the users uid to show their character!
+</details>
+<details>
+    <summary>What platfroms does it support?</summary>
+    <br>
+    It currently supports JavaScript and it can be loaded in web apps but you can embed a site in a mobile app for example to use it on mobile.
+</details>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<a href="Getting%20started/Setup%20the%20API/">You can get started by clicking me !<a>
