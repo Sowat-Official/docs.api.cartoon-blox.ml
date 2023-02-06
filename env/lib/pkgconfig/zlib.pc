@@ -1,0 +1,13 @@
+prefix=/workspaces/Cartoon-blox-api-docs/env
+exec_prefix=/workspaces/Cartoon-blox-api-docs/env
+libdir=/workspaces/Cartoon-blox-api-docs/env/lib
+sharedlibdir=/workspaces/Cartoon-blox-api-docs/env/lib
+includedir=/workspaces/Cartoon-blox-api-docs/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
