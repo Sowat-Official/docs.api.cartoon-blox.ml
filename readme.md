@@ -1,2 +1,3 @@
 The documentation for the Cartoon-Blox API !
-[link](https://google.com)
+
+[Check the documentation!](https://docs.api.cartoon-blox.ml)
