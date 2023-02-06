@@ -1,10 +1,14 @@
 site_name: Cartoon Blox API Docs
 copyright: Copyright &copy; 2023 Sowat
 repo_url: https://github.com/Sowat-Official/docs.api.cartoon-blox.ml
+repo_name: docs.api.cartoon-blox.ml
+
 theme:
   logo: assets/logo.png
   favicon: assets/logo.png
   name: material
+  icon:
+    repo: fontawesome/brands/github 
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
