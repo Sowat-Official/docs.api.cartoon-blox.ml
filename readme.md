@@ -1,6 +1,6 @@
 The documentation for the Cartoon Blox API
 
-This [website (https:ss.com[website]
+[docs.api.cartoon-blox.ml](https://docs.api.cartoon-blox.ml/)
 
 This is the documentation of cartoon-blox API
 the API is not open-source because somethings
