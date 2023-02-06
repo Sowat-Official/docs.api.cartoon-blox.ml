@@ -1,3 +1,5 @@
+#This documentation won't work yet and not everything is finished the api is also not hosted yet!
+
 #Welcome to the Cartoon Blox API Documentation !
 Here we are gonna start using the API
 <details>
