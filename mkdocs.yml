@@ -1,0 +1,7 @@
+site_name: Cartoon Blox API Docs
+copyright: Copyright &copy; 2023 Sowat
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
